@@ -8,7 +8,7 @@ Stop: Stop the currently playing song and reset to the beginning.
 Next: Skip to the next song in the playlist.
 Previous: Go back to the previous song in the playlist.
 Resume: Resume the paused song from where it was paused.
-Song Collection: A folder containing MP3 songs is provided.
+Song Collection: A folder containing MP3 songs should be selected.
 
 Prerequisites
 Python 3.x
